@@ -15,7 +15,7 @@ Deletion is permanent and cannot be undone.
 
 ## On the web
 
-1. Go to [kidsize.olegb.ru](https://kidsize.olegb.ru) and sign in.
+1. Go to [kidsizes.olegb.dev](https://kidsizes.olegb.dev) and sign in.
 2. Open **Settings** → **Delete account** and confirm.
 
 ## By e-mail
